@@ -1,0 +1,9 @@
+{
+    "name": "SistemaAcademicoFCTE",
+    "sourcePaths": ["src/main/java"],
+    "outputPath": "out",
+    "dependencies": [],
+    "javaExecutable": "java",
+    "projectType": "application",
+    "encoding": "UTF-8"
+} 

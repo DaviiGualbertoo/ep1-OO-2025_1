@@ -1,0 +1,31 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de pacote
+*.jar
+*.war
+*.ear
+
+# Diretórios de build
+/target/
+/build/
+/out/
+
+# Arquivos de IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.classpath
+.project
+
+# Arquivos de dados
+*.dat
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db 

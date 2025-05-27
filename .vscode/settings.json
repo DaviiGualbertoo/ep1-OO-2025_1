@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.outputPath": "out",
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.hotCodeReplace": "auto",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "java.completion.importOrder": [
+        "java",
+        "javax",
+        "br.edu.fcte",
+        ""
+    ],
+    "files.encoding": "utf8",
+    "java.project.explorer.showNonJavaResources": false,
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "java.dependency.packagePresentation": "flat"
+} 

@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "br.edu.fcte.main.Main",
+            "projectName": "sistema-academico"
+        },
+        {
+            "type": "java",
+            "name": "Sistema Acadêmico FCTE",
+            "request": "launch",
+            "mainClass": "br.edu.fcte.main.Main",
+            "projectName": "SistemaAcademicoFCTE",
+            "vmArgs": "-Dfile.encoding=UTF-8"
+        }
+    ]
+} 
