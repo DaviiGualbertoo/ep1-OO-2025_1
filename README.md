@@ -10,9 +10,9 @@ O enunciado do trabalho pode ser encontrado aqui:
 ## Dados do Aluno
 
 - **Nome completo: Davi Gualberto Rocha
-- **Matrícula:241012196
-- **Curso:Engenharias
-- **Turma:06
+- **Matrícula: 241012196
+- **Curso: Engenharias
+- **Turma: 06
 
 ---
 
@@ -25,7 +25,32 @@ O enunciado do trabalho pode ser encontrado aqui:
    Main.java
 
 3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+  src/
+├── main/
+│   └── java/
+│       └── br/
+│           └── edu/
+│               └── fcte/
+│                   ├── main/
+│                       ├── main.java
+│                   ├── model/
+│                   │   ├── Pessoa.java
+│                   │   ├── Aluno.java
+│                   │   ├── AlunoNormal.java
+│                   │   ├── AlunoEspecial.java
+│                   │   ├── Professor.java
+│                   │   ├── Disciplina.java
+│                   │   ├── Turma.java
+│                   │   └── FormaAvaliacao.java
+│                   ├── controller/
+│                   │   ├── Persistivel.java
+│                   │   ├── AlunoController.java
+│                   │   ├── DisciplinaController.java
+│                   │   └── AvaliacaoController.java
+│                   └── SistemaAcademico.java
+└── test/
+    └── java/
+
 
 3. **Versão do JAVA utilizada:**  
    Java 17      
@@ -67,7 +92,7 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+Minha maior dificuldade nesse trabalho foi a parte de ligar os alunos e professores a uma turma, e depois gerar notas e frequências que ficassem gravadas em um arquivo.
 
 ---
 
